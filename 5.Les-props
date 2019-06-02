@@ -1,5 +1,0 @@
-
-<h1>Les Props</h1>
-
-<strong>this</strong> fait référence à l'objet qui va résulter de l'instance de ma class. Sur cet objet, on va avoir un autre objet qui s'appelle <strong>props</props> qui est un attribut de ma class, 
-et on va pouvoir retrouver notre propriété *name*
