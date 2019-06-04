@@ -22,16 +22,16 @@ Ce repo est donc idéal pour apprendre de nouvelles choses, tout en révisant se
 <h2>Sommaire</h2>
 
 <ul>
-  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/1.Ma-premiere-app.md">1.Je crée ma première app</a><li>
-  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/2.inside-my-app.md">2.La structure de mon app</a><li>
-  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/3.%20Et-il-me-parle-de-JSX-maintenant.md">3.Le JSX???</a><li>
-  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/4.Les-Component.md">4.Les Component</a><li>
-  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/5.le-fil-rouge-part1-1.md">5.Kill AlloCiné - Partie1: Structurer le projet</a><li>
-  <li><a href=https://github.com/GuyVil1/theorie-React/blob/master/6.le-fil-rouge-part1-2.md"">6. Kill AlloCiné - Partie2: Intégrer Bootstrap à React</a><li>
-  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/7.Le-fil-rouge-part-1-3.md">7. Kill allocCiné - Partie3: Mise en place de ma liste de Films</a><li>
-  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/8.Le-state-d-un-component.md">8. Le State d'un Component</a><li>
-  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/9.Les-evenement.md">9. La gestion des évènements</a><li>
-  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/10.de-l-enfant-vers-le-parent.md">Communiquer un Component enfant vers le Component parent</a><li>
+  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/1.Ma-premiere-app.md">1.Je crée ma première app</a></li>
+  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/2.inside-my-app.md">2.La structure de mon app</a></li>
+  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/3.%20Et-il-me-parle-de-JSX-maintenant.md">3.Le JSX???</a></li>
+  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/4.Les-Component.md">4.Les Component</a><//li>
+  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/5.le-fil-rouge-part1-1.md">5.Kill AlloCiné - Partie1: Structurer le projet</a><//li>
+  <li><a href=https://github.com/GuyVil1/theorie-React/blob/master/6.le-fil-rouge-part1-2.md"">6. Kill AlloCiné - Partie2: Intégrer Bootstrap à React</a></li>
+  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/7.Le-fil-rouge-part-1-3.md">7. Kill allocCiné - Partie3: Mise en place de ma liste de Films</a><//li>
+  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/8.Le-state-d-un-component.md">8. Le State d'un Component</a></li>
+  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/9.Les-evenement.md">9. La gestion des évènements</a></li>
+  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/10.de-l-enfant-vers-le-parent.md">Communiquer un Component enfant vers le Component parent</a></li>
 </ul>
 
 
