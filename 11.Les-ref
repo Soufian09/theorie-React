@@ -1,1 +1,11 @@
+<h1>Les Références</h1>
+Comme il n'y a pas de bon parcours sans pratique, je te propose de commencer par un
 
+<h3>Petit exercice Bootstrap</h3>
+
+Crée un formulaire de Login qui comprendra un champ pour inscrire l'email, un champ pour le mot de passe, et enfin, un bouton pour lancer la connexion.
+Construit ce formulaire avec Bootstrap et quand il est codé, voit comment il s'affiche.
+...
+
+<strong>Que remarques-tu?</strong>
+Au delà de l'apparence de ton formulaire, si tu es orienté experience utilisateurs, tu as peut-être remarqué que pour 
