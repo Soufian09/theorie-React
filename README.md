@@ -31,9 +31,10 @@ Ce repo est donc idéal pour apprendre de nouvelles choses, tout en révisant se
   <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/7.Le-fil-rouge-part-1-3.md">7. Kill allocCiné - Partie3: Mise en place de ma liste de Films</a><//li>
   <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/8.Le-state-d-un-component.md">8. Le State d'un Component</a></li>
   <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/9.Les-evenement.md">9. La gestion des évènements</a></li>
-  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/10.de-l-enfant-vers-le-parent.md">Communiquer un Component enfant vers le Component parent</a></li>
+  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/10.de-l-enfant-vers-le-parent.md">10. Communiquer un Component enfant vers le Component parent</a></li>
+  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/11.Les-ref.md">11. Les références</a></li>
+  <li><a href="https://github.com/GuyVil1/theorie-React/blob/master/12.le-fil-rouge-partie-2.1.md">12. Kill AlloCiné - Partie 4</a></li>
 </ul>
-
 
 Allez, viens je t'emmène
 
